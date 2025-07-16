@@ -1,6 +1,8 @@
 # confa
 Perform confirmatory factor analysis modeling Use confa With STATA 19
 
+https://www.youtube.com/watch?v=ntPiT5PhNXI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
